@@ -893,6 +893,20 @@ export const RegisterHeaderWrapper = styled.section`
                 }
             }
         }
+
+        @media (max-width: ${px435}) {
+            #register_logo{
+                font-size: 26px;
+            }
+
+            .nav{
+                ul{
+                    .register-button {
+                        width: 90px;
+                    }
+                }
+            }
+        }
     }
 `;
 
@@ -906,21 +920,20 @@ export const FormWrapper = styled.section`
 
     display: flex;
     align-items: center;
+    justify-content: center;
 
     flex-direction: column;
 
     font-family: "Mulish";
     font-style: normal;
     font-weight: 400;
-    
+
     h1 {
         color: #4f4f4f;
 
         font-size: 45px;
         line-height: 56px;
         letter-spacing: 0.15em;
-
-        margin-left: -50px;
     }
 
     form {
@@ -946,8 +959,8 @@ export const FormWrapper = styled.section`
             div {
                 display: flex;
 
-
                 flex-direction: column;
+
                 input {
                     height: 30px;
                     width: 90%;
@@ -993,6 +1006,11 @@ export const FormWrapper = styled.section`
         cursor: pointer;
 
         font-weight: bolder;
+    }
 
+    @media (max-width: ${px435}) {
+        form {
+            width: 90%;
+        }
     }
 `;
