@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Icon" transform="translate(-195 -616)">
+    <path id="Caminho_173" data-name="Caminho 173" d="M0,0H24V24H0Z" transform="translate(195 616)" fill="#fff" opacity="0"/>
+    <g id="magnifying-glass" transform="translate(184 605)">
+      <path id="Caminho_1" data-name="Caminho 1" d="M26.8,25.864l-3.847-3.847a6.737,6.737,0,1,0-.944.944L25.86,26.8a.666.666,0,0,0,.944-.94Zm-9.061-2.72a5.4,5.4,0,1,1,5.4-5.4A5.408,5.408,0,0,1,17.743,23.144Z" transform="translate(4 4)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
