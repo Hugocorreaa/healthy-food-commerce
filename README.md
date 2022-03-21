@@ -10,7 +10,7 @@
   <td>ReactJs</td>
   <td>Styled Components</td>
   <td>React Hook Forms</td>
-  <td>Yupi Validation</td>
+  <td>Yup Validation</td>
  </tr>
 </table>
 <table>
